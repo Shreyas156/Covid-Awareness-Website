@@ -9,7 +9,6 @@ Created By:
 ### Shreyas Peherkar-
 Github Id: 
 
-### Rishabh Rathi - 
 Website: 
 Github Id: 
 LinkedIn: 
